@@ -1,5 +1,6 @@
 export const palabras = [
   'calor',
+  'leche',
   'cesto',
   'resto',
   'gesto',

@@ -18,9 +18,9 @@ class Personas {
   }
 }
 
-let personas = new Personas("Damaris", "Allue", "Alumna");
+let personas = new Personas("Damian", "Fernandez", "Alumno");
 
-let personas2 = new Personas("Ariel", "Bachetti", "Profesor");
+let personas2 = new Personas("Carolina", "Lemes", "Profesora");
 
 let personas3 = new Personas("Nano", "Pueblo", "Gatito");
 
@@ -196,7 +196,7 @@ document.addEventListener("keyup", (e) => {
     return;
   }
 
-  if (pressedKey === "✔") {
+  if (pressedKey === "Enter") {
     checkGuess();
     return;
   }
