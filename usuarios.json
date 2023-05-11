@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "nombre": "Julian Perez",
+        "tiempo": "01:30 min",
+        "nacionalidad": "Argentina"
+    },
+    {
+        "id": 2,
+        "nombre": "Victoria Nannis",
+        "tiempo": "30 seg",
+        "nacionalidad": "Argentina"
+    },
+    {
+        "id": 3,
+        "nombre": "Victoria Quevedo",
+        "tiempo": "11:30 min",
+        "nacionalidad": "Colombia"
+    },
+    {
+        "id": 4,
+        "nombre": "Alberto Perez",
+        "tiempo": "03:30 min",
+        "nacionalidad": "Colombia"
+    },
+    {
+        "id": 5,
+        "nombre": "Gabriel Lopez",
+        "tiempo": "05:30 min",
+        "nacionalidad": "Venezuela"
+    },
+    {
+        "id": 6,
+        "nombre": "German Garmendia",
+        "tiempo": "09:30 min",
+        "nacionalidad": "Venezuela"
+    },
+    {
+        "id": 7,
+        "nombre": "Sebastian Villegas",
+        "tiempo": "03:30 min",
+        "nacionalidad": "Uruguay"
+    },
+    {
+        "id": 8,
+        "nombre": "Micaela Ollin",
+        "tiempo": "02:30 min",
+        "nacionalidad": "Uruguay"
+    }
+]
